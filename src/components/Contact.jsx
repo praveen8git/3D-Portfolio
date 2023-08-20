@@ -28,9 +28,10 @@ const Contact = () => {
     e.preventDefault()
     setLoading(true)
 
+    // register on email.js and use your credentials below
     emailjs.send(
-      'service_no9q456',
-      'template_2rbkiek',
+      import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
+      import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
       {
         from_name: form.name,
         to_name: 'Praveen',
@@ -38,7 +39,7 @@ const Contact = () => {
         to_email: 'praveenpatel@duck.com',
         message: form.message
       },
-      'dKJkfLL_Xe87xLlpz'
+      import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
       )
       .then(() => {
         setLoading(false)
