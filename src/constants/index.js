@@ -196,6 +196,7 @@ import {
         },
       ],
       image: carrent,
+      live_link: "https://",
       source_code_link: "https://github.com/",
     },
     {
@@ -217,6 +218,7 @@ import {
         },
       ],
       image: jobit,
+      live_link: "https://",
       source_code_link: "https://github.com/",
     },
     {
@@ -238,6 +240,7 @@ import {
         },
       ],
       image: tripguide,
+      live_link: "https://",
       source_code_link: "https://github.com/",
     },
   ];
