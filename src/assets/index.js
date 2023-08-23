@@ -33,6 +33,9 @@ import smarter from "./company/smarter.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import linkshrink from "./linkshrink.png";
+import quickdocs from "./quickdocs.png";
+import shoppingcart from "./shoppingcart.png";
 
 export {
   logo,
@@ -67,4 +70,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  linkshrink,
+  quickdocs,
+  shoppingcart,
 };

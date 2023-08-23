@@ -22,6 +22,9 @@ import {
     carrent,
     jobit,
     tripguide,
+    linkshrink,
+    quickdocs,
+    shoppingcart,
     threejs,
   } from "../assets";
   
@@ -195,9 +198,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: quickdocs,
       live_link: "https://",
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/praveen8git/QuickDocs",
     },
     {
       name: "URL Shortener",
@@ -217,9 +220,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: linkshrink,
       live_link: "https://",
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/praveen8git/Link-Shrink",
     },
     {
       name: "The Shopping Cart",
@@ -239,9 +242,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: shoppingcart,
       live_link: "https://",
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/praveen8git/Shopping-Cart",
     },
   ];
   
