@@ -49,15 +49,15 @@ import {
       icon: web,
     },
     {
-      title: "Full-Stack Developer",
+      title: "MERN Prodigy",
       icon: backend,
     },
     {
-      title: "App Deployment",
+      title: "Design Maestro",
       icon: mobile,
     },
     {
-      title: "QA & Testing",
+      title: "Code Quality",
       icon: creator,
     },
   ];
@@ -199,7 +199,7 @@ import {
         },
       ],
       image: quickdocs,
-      live_link: "https://",
+      live_link: "https://praveensingh.in/quickdocs",
       source_code_link: "https://github.com/praveen8git/QuickDocs",
     },
     {
@@ -221,7 +221,7 @@ import {
         },
       ],
       image: linkshrink,
-      live_link: "https://",
+      live_link: "https://s.praveensingh.in",
       source_code_link: "https://github.com/praveen8git/Link-Shrink",
     },
     {
@@ -243,7 +243,7 @@ import {
         },
       ],
       image: shoppingcart,
-      live_link: "https://",
+      live_link: "https://shopping-cart.praveensingh.in",
       source_code_link: "https://github.com/praveen8git/Shopping-Cart",
     },
   ];
